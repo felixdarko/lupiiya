@@ -2000,6 +2000,11 @@ ul li .fa-li.fa-square {
     text-align: left;
 }
 
+.counter-percent {
+    display: inline !important;
+    padding-left: 0px !important;
+}
+
 /*
 -------------------------------------------------------------------
 CONTAINERS
